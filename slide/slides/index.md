@@ -390,13 +390,10 @@ I want more...
 
 - current resources
 
- - bbc radio one
+ - http://www.bbc.co.uk/radio1
  - glee
  - playlist of my wife
 
 ---
-
-# summary
-
 
 # thanks
