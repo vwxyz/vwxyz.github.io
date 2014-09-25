@@ -11,7 +11,7 @@ hitoshi.k
 
 - Minimize Tool set: RSS, GMAIL with some DIY
 - Minimize Time on social media
-- Something works well, Others not. 
+- Something works well, Others not.
 
 ---
 
@@ -70,7 +70,7 @@ japan reflation, essays on economics, glee, seo, philosophical papers, japanese 
 
 - something are digested daily
 - others only once a week/month/year
-- some contents digeted only when I want to do, though also I'm really interested in 
+- some contents digeted only when I want to do, though also I'm really interested in
 
 ---
 
@@ -109,7 +109,7 @@ japan reflation, essays on economics, glee, seo, philosophical papers, japanese 
 
 ---
 
-# Focus 
+# Focus
 
 - minimize
 - instant access
@@ -146,7 +146,7 @@ my tool set
 # focus :instant access
 
 - some websites is slow
- - a lot of ads 
+ - a lot of ads
  - redirects
  - cheep infrastrucrure
 
@@ -184,7 +184,7 @@ my tool set
  - hacker news
  - etc..
 - sometimes contains noise
- - gigaom: gadgets,rumor,etc 
+ - gigaom: gadgets,rumor,etc
 - some websites don't support rss
  - twitter
 
@@ -310,7 +310,7 @@ use yahoo pipes!
 
 ---
 
-#Gmail 
+#Gmail
 
 - stores copy
  - read it later
@@ -329,10 +329,29 @@ use API for send mail with bookmarklet
 
 ---
 
-#Gmail: demo
+#send from rss reader
 
-- 
-- 
+![send-ldr.png](img/send-ldr.png)
+
+---
+
+#send from rss reader
+
+![send-ldr-gmail.png](img/send-ldr-gmail.png)
+
+---
+
+#send page
+
+![send-page.png](img/send-page.png)
+
+
+---
+
+#send page
+
+![send-page-gmail.png](img/send-page-gmail.png)
+
 
 ---
 
@@ -348,11 +367,14 @@ use API for send mail with bookmarklet
 - I'm
  - usulally "no music"
  - unwilling to expose myself to music stream
-- still seek for my new favorite 
+- still seek for my new favorite
+
+
+
 
 ---
 
-# music 
+# music
 
 - new favorite this year
 
@@ -378,4 +400,3 @@ I want more...
 
 
 # thanks
-
